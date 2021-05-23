@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Bayern Third Kit",
+            "image": "./images/products/all_products/bayern_third.png",
+            "price": 999,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Arsenal Third Kit",
+            "image": "./images/products/all_products/arsenal_third.png",
+            "price": 999,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Atletico Home Kit",
+            "image": "./images/products/all_products/atletico_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "BVB Home Kit",
+            "image": "./images/products/all_products/bvb_home.png",
+            "price": 1399,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Bayern Home Kit",
+            "image": "./images/products/all_products/bayern_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "BVB Away Kit",
+            "image": "./images/products/all_products/bvb_away.png",
+            "price": 1099,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Chelsea Third Kit",
+            "image": "./images/products/all_products/chelsea_third.png",
+            "price": 999,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Man City Home Kit",
+            "image": "./images/products/all_products/city_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Liverpool GK Kit",
+            "image": "./images/products/all_products/liverpool_gk.png",
+            "price": 899,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Ronaldo Home Jersey",
+            "image": "./images/products/all_products/juventus_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Liverpool Home Kit",
+            "image": "./images/products/all_products/liverpool_home.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Chelsea Home Kit",
+            "image": "./images/products/all_products/chelsea_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Madrid Third Kit",
+            "image": "./images/products/all_products/madrid_third.png",
+            "price": 999,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Man City Away Kit",
+            "image": "./images/products/all_products/mancity_away.png",
+            "price": 1099,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Messi Away Jersey",
+            "image": "./images/products/all_products/messi_away.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Arsenal Home Kit",
+            "image": "./images/products/all_products/arsenal_home.png",
+            "price": 1399,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Messi Home Jersey",
+            "image": "./images/products/all_products/messi_home.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Ronaldo Portugal Jersey",
+            "image": "./images/products/all_products/ronaldo_national.png",
+            "price": 899,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Ronaldo Away Jersey",
+            "image": "./images/products/all_products/ronaldo_away.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Arsenal Away Kit",
+            "image": "./images/products/all_products/arsenal_away.png",
+            "price": 1099,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "ManU Home Kit",
+            "image": "./images/products/all_products/united_home.png",
+            "price": 1399,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Ronaldo Third Jersey",
+            "image": "./images/products/all_products/ronaldo_third.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "ManU Third Kit",
+            "image": "./images/products/all_products/united_third.png",
+            "price": 999,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Salah Home Jersey",
+            "image": "./images/products/all_products/salah_home.png",
+            "price": 1399,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "ManU Away Kit",
+            "image": "./images/products/all_products/united_away.png",
+            "price": 1099,
+            "category": "Featured Products"
+        }
+
+    ]
+}
